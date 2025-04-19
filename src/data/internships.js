@@ -15,6 +15,7 @@ export const internships = [
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
     companyLogo: "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     isRemote: false,
+    tags: ["Frontend", "React", "JavaScript"]
   },
   {
     id: 2,
@@ -30,6 +31,8 @@ export const internships = [
     image: "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
     companyLogo: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     isRemote: false,
+    tags: ["Python", "Numpy", "Pandas"]
+
   },
   {
     id: 3,
@@ -45,6 +48,7 @@ export const internships = [
     image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
     companyLogo: "https://images.unsplash.com/photo-1535268647677-300dbf3d78d1?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     isRemote: false,
+    tags: ["Frontend", "Figma", "JavaScript"]
   },
   {
     id: 4,
@@ -60,6 +64,7 @@ export const internships = [
     image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
     companyLogo: "https://images.unsplash.com/photo-1498936178812-4b2e558d2937?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     isRemote: true,
+    tags: ["Backend", "Node js", "MongoDB"]
   },
   {
     id: 5,
@@ -75,6 +80,7 @@ export const internships = [
     image: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
     companyLogo: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     isRemote: false,
+  
   },
   {
     id: 6,
@@ -90,6 +96,7 @@ export const internships = [
     image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
     companyLogo: "https://images.unsplash.com/photo-1549924231-f129b911e442?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     isRemote: true,
+    tags: ["Full Stack", "React", "Node js", "MongoDB"]
   },
   {
     id: 7,
@@ -120,6 +127,7 @@ export const internships = [
     image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
     companyLogo: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     isRemote: true,
+    tags: ["Frontend", "Docker", "JavaScript"]
   },
   {
     id: 9,
@@ -147,9 +155,10 @@ export const internships = [
     requirements: "Experience with React Native, Swift, or Kotlin. Understanding of mobile app development principles.",
     category: "Mobile Development",
     postedDate: "2023-05-09",
-    image: "https://images.unsplash.com/photo-1573498651442-3e33225c7b5f?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
+    image: "https://imgs.search.brave.com/skvMwAA3gkRFr4b-n7xl2KvuHAiAPO21K-Rkg5UmJYY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aGR3ZWJzb2Z0LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wOS9pY29uLWFu/ZHJvaWQtYXBwLWRl/dmVsb3BtZW50LnN2/Zw",
     companyLogo: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     isRemote: true,
+    tags: ["Frontend", "Flutter", "Swift"]
   }
 ];
 
