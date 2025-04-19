@@ -113,5 +113,14 @@
     animation-delay: calc(var(--delay, 0) * 100ms);
   }
 }
+body, html, #root {
+  margin: 0;
+  padding: 0;
+}
+
+/* Ensure no default margins or padding on other elements */
+* {
+  box-sizing: border-box;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
